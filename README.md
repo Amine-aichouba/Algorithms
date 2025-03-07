@@ -6,8 +6,8 @@ This repository contains a collection of popular algorithms in the fields of **S
 
 ## Table of Contents
 
-1. [Searching Algorithms](#searching-algorithms)
-2. [Sorting Algorithms](#sorting-algorithms)
+1. [Searching Algorithms](Searching)
+2. [Sorting Algorithms](Sorting)
 3. [How to Contribute](#how-to-contribute)
 4. [License](#license)
 
